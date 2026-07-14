@@ -23,6 +23,9 @@
 </p>
 
 ---
+# Hackermode Terminal is now it's own <b>[STANDALONE SCRIPT](https://github.com/dzumq/Hackermode)</b> for those that want the terminal without installing the entire OS
+
+---
 
 ## Features of Linux Larp
 
